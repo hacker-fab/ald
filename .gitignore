@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+controls/ald_log_*.csv
+controls/precursor_usage.json
+controls/precursor_usage.tmp
+get-pip.py
